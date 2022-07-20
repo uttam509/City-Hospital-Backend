@@ -2,7 +2,7 @@
 
 ### Hospital Management System
 
-> #### [ Link ](https://city-hospital.netlify.app/ "   Link")
+> #### [ Link ](https://city-hospital.vercel.app/ "   Link")
 
 Make Sure to Create a config.ev file in backend/config directory and add appropriate variable in order to use the app.
 
